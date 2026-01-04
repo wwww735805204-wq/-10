@@ -1,0 +1,17 @@
+{
+  "name": "whatsapp-bot",
+  "version": "1.0.0",
+  "description": "Account Statement Bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "latest",
+    "pino": "latest",
+    "axios": "latest",
+    "express": "latest",
+    "@hapi/boom": "latest",
+    "qrcode-terminal": "latest"
+  }
+}
