@@ -1,0 +1,4 @@
+node_modules
+sessions_auth
+mapping_db.json
+.env
